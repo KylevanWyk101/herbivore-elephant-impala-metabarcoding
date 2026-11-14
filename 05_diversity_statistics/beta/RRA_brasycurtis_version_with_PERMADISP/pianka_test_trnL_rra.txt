@@ -1,0 +1,4 @@
+Pianka index test (trnL)
+Mean within-group overlap = 0.678
+Mean between-group overlap = 0.009
+Mann–Whitney U stat = 219487.000, p = 0.0000

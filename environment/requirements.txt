@@ -1,0 +1,15 @@
+# Python packages used across this pipeline. No versions are pinned here --
+# the original analysis environment was never exported. Install these into a
+# fresh virtualenv/conda env, then run `pip freeze > requirements.lock.txt`
+# yourself if you want an exact, reproducible pin list.
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-bio
+scikit-learn
+statsmodels
+biopython
+Pillow
+plotly

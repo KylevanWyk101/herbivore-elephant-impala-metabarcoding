@@ -1,0 +1,11 @@
+# R packages used across this pipeline. No versions are pinned here -- the
+# original analysis environment was never exported (no renv.lock exists).
+# Install with install.packages()/BiocManager::install() as appropriate, then
+# run renv::snapshot() yourself if you want an exact, reproducible lockfile.
+lulu        # install via devtools::install_github("tobiasgf/lulu")
+vegan
+dplyr
+pgirmess
+DESeq2      # Bioconductor
+ggplot2
+ggrepel
